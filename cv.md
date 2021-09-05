@@ -1,9 +1,9 @@
 # Marharyta Korzun
 
 ## Contact info
-**Location:** Minsk, Belarus
-**Email:** marharytadk@gmail.com 
-**LinkedIn:** [Margarita Korzun](https://www.linkedin.com/in/margarita-korzun/)
+**Location:** Minsk, Belarus  
+**Email:** marharytadk@gmail.com  
+**LinkedIn:** [Margarita Korzun](https://www.linkedin.com/in/margarita-korzun/)  
 
 ## About
 Over 4 years of experience as a QA Automation Engineer (web software testing). I'm big on learning and self-development and helping others grow as well. I take joy in solving challenging tasks.
@@ -18,9 +18,9 @@ On the current project I am responsible for creating automation test scripts and
  - **Programming technologies:** Angular and NodeJS (base)
  - **Cloud computing platforms:** AWS, Azure (base)
 
-  Skilled in working with software engineering management tools: Atlassian JIRA, Bitbucket, Confluence,
-   Visual Studio Code IDE. Experience in using TestLink for creating test cases, test suites and
-   test plans. Familiar with continuous integration tools (ex. Teamcity).
+Skilled in working with software engineering management tools: Atlassian JIRA, Bitbucket, Confluence,
+Visual Studio Code IDE. Experience in using TestLink for creating test cases, test suites and
+test plans. Familiar with continuous integration tools (ex. Teamcity).
 
 ## Code examples
 [Are arrow functions odd?](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5)
@@ -33,23 +33,23 @@ function odds(values) {
 
 ## Work experience
 
-> **QA Automation Engineer**
-> **Compatibl  LLC** |  FULL-TIME
+> **QA Automation Engineer**  
+> **Compatibl  LLC** |  FULL-TIME  
 APR 2017 - FEB 2021
 
-> **QA Automation Engineer**
-> **Azumics  LLC** |  FULL-TIME
+> **QA Automation Engineer**  
+> **Azumics  LLC** |  FULL-TIME  
 MAR 2021 - PRESENT
 
 ## Education
 
-> **Belarusian State University of Informatics and Radioelectronics** 
+> **Belarusian State University of Informatics and Radioelectronics**  
 > Information systems software  |  2020 - 2021
 > 
-> **Belarusian State Academy of Communications**
+> **Belarusian State Academy of Communications**  
 Infocommunication Technologies  |  2017 - 2021
 > 
-> **Belarusian State Academy of Communications**
+> **Belarusian State Academy of Communications**  
 > Software testing  |  2014 - 2017
 
 ## Languages
