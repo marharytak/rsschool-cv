@@ -7,7 +7,7 @@
 
 ## About
 Over 4 years of experience as a QA Automation Engineer (web software testing). I'm big on learning and self-development and helping others grow as well. I take joy in solving challenging tasks.
-On the current project I am responsible for creating automation test scripts and assuring the quality of developed software.
+On the current project, I'm responsible for creating automation test scripts and assuring the quality of developed software.
 
 # Tech stack and tools
 
@@ -19,8 +19,7 @@ On the current project I am responsible for creating automation test scripts and
  - **Cloud computing platforms:** AWS, Azure (base)
 
 Skilled in working with software engineering management tools: Atlassian JIRA, Bitbucket, Confluence,
-Visual Studio Code IDE. Experience in using TestLink for creating test cases, test suites and
-test plans. Familiar with continuous integration tools (ex. Teamcity).
+Visual Studio Code IDE. Experience in using TestLink for creating test cases, test suites, and test plans. Familiar with continuous integration tools (ex. Teamcity).
 
 ## Code examples
 [Are arrow functions odd?](https://www.codewars.com/kata/559f80b87fa8512e3e0000f5)
