@@ -1,1 +1,1 @@
-# rsschool-cv
+https://marharytak.github.io/rsschool-cv/cv
