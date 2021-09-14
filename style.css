@@ -1,0 +1,153 @@
+html {
+    scroll-behavior: smooth;
+    font-size: calc(0.1em + 1vw);
+}
+
+header {
+    margin: auto;
+    background-color: #EEEEF1;
+    border-bottom: 0.1em solid #8c8c8c;
+}
+
+ul {
+    padding-left: 0 !important;
+    list-style: none;
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+}
+
+nav ul {
+    margin-bottom: 0 !important;
+    padding: 0.4rem;
+}
+
+.nav-item {
+    display: inline;
+    padding: 0.8rem;
+}
+
+.nav-item-link {
+    text-transform: uppercase;
+}
+
+.nav-item-link:hover {
+    background-color: #d9d9dd;
+    border-radius: 0.5rem;
+}
+
+a,
+li {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: inherit;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.container {
+    display: flex;
+    background-color: #eff0f2;
+}
+
+.contact-info {
+    background-color: #d9d9dd;
+}
+
+#personal-info {
+    margin-left: 12%;
+    margin-bottom: 5%;
+}
+
+#photo img {
+    width: 16em;
+    height: 18em;
+    margin: 3em 0;
+    border: 0.3em solid #8c8c8c;
+}
+
+#name,
+#position {
+    margin-bottom: 0.8em;
+    font-weight: normal;
+}
+
+#contacts li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+#contacts li span {
+    position: relative;
+    left: 0.5em;
+    color: inherit;
+}
+
+.social-media-icon {
+    width: 7%;
+    height: 7%;
+    vertical-align: middle;
+}
+
+.info-block {
+    margin-top: 5%;
+}
+
+.info-block-header {
+    padding: 0.3rem 2rem;
+    margin-bottom: 3%;
+    font-weight: lighter;
+    text-transform: uppercase;
+    background-color: #d9d9dd;
+}
+
+.info-block-content {
+    margin: 0 2rem;
+    text-align: justify;
+}
+
+.info-block-content li {
+    margin-bottom: 0.4rem;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: #EEEEF1;
+}
+
+footer a {
+    display: inline-block;
+    line-height: 1em;
+}
+
+footer div {
+    display: flex;
+    flex-direction: row;
+}
+
+footer img {
+    width: 5em;
+    height: 3em;
+    margin: 0;
+}
+
+figcaption {
+    margin-left: 12%;
+    font-size: 0.7em;
+}
+
+#year {
+    padding-top: 1em;
+    margin-left: auto;
+    align-self: flex-end;
+}
